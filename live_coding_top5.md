@@ -60,6 +60,7 @@ How to look like a coding rockstar on stage with Azure and VSCode.
 
 ## Tip 5: Use code snippets
 
+[comment]: # (Code snippets are a great way to make sure you don't fat-finger it while you're doing live coding.)
 [comment]: # (VSCode has built in support for some code snippets, and extensions for tons of other languages.)
 
 * [VSCode extensions](https://code.visualstudio.com/docs/editor/userdefinedsnippets) -> Command palatte -> "insert snippet"

@@ -2,7 +2,7 @@
 
 def main():
     # my code here
-    console.log('well this was easy :)')
+    
     
     
 
