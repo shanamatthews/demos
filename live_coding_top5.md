@@ -27,12 +27,12 @@ How to look like a coding rockstar on stage with Azure and VSCode.
 
   [comment]: # (if you ever have to demo on a machine that isn't yours, or you can't install command line tools on cloud shell will save your butt.)
 
-  * Azure CLI 2.0 is installed
-  * Use bash or PowerShell.
-  * Change the text size
-  * Open in a new window
-  * Drag & drop files – easy to upload into your VM or other Azure resource
-  * Check VM status – MOST foolproof way to do it
+* Azure CLI 2.0 is installed
+* Use bash or PowerShell.
+* Change the text size
+* Open in a new window
+* Drag & drop files – easy to upload into your VM or other Azure resource
+* Check VM status – MOST foolproof way to do it
 
 ## Tip 3: Show your users how to save $
 
@@ -58,10 +58,12 @@ How to look like a coding rockstar on stage with Azure and VSCode.
 * Tips & tricks section and keyboard shortcuts section within VSCode!
 
 ### VSCode features
+
 * VSCode log points
 * VSCode interactive playground (Help > Interactive Playground.)
 
 ### Keyboard shortcuts
+
 Command palatte (ctrl + shift + p)
 keyboard shortcuts ?
 alt + up/down moves a line of code up or down
