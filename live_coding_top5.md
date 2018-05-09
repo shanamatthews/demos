@@ -60,8 +60,10 @@ How to look like a coding rockstar on stage with Azure and VSCode.
 
 ## Tip 5: Use code snippets
 
+[comment]: # (VSCode has built in support for some code snippets, and extensions for tons of other languages.)
+
 * [VSCode extensions](https://code.visualstudio.com/docs/editor/userdefinedsnippets) -> Command palatte -> "insert snippet"
-* File -> Preferences -> User Snippets
+* Add your own snippets! File -> Preferences -> User Snippets
 * Carefully choose your snippet size: large is fine for boilerplate, but use small, incremental snippets for anything your audience should follow along with
 
   *Insert a snippet here!*
