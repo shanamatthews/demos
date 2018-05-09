@@ -1,10 +1,12 @@
-# Top 5 tips & tricks for live demos
+# Top tips & tricks for live demos
 
 How to look like a coding rockstar on stage with Azure and VSCode.
 
 [comment]: # (Consider adding screenshots for each of these tips)
 
 ## Tip 1: Customize your Azure Portal
+
+[comment]: # (If you're doing an Azure demo - you're probably going to have the Portal up)
 
 * Disable your toasts
 * Change your theme
