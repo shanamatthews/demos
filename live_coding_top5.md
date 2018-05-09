@@ -69,15 +69,14 @@ print("hello MSPs!")
 
 ### VSCode features
 
+* Command palatte (ctrl + shift + p)
 * VSCode log points
 * VSCode interactive playground (Help > Interactive Playground.)
 
 ### Keyboard shortcuts
 
-Command palatte (ctrl + shift + p)
-keyboard shortcuts ?
-alt + up/down moves a line of code up or down
-ctrl + m/h
-ctrl k, c for commenting/uncommenting
-Intellisense can be invoked with Ctrl+Space
-Formatting Shift + Alt + F
+* alt + up/down moves a line of code up or down
+* ctrl + m/h
+* ctrl k, c/u for commenting/uncommenting
+* Intellisense can be invoked with Ctrl+Space
+* Formatting Shift + Alt + F
