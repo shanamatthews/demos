@@ -55,8 +55,8 @@ How to look like a coding rockstar on stage with Azure and VSCode.
 
 * Use virtual desktops - Mac & Windows 10
 * Zoom in properly! (ctrl + wheel or ctrl + =/-)
-* Zen mode in VSCode (double esc to get out) -> Command palatte -> "zen mode"
 * Fonts and colors -> Command palatte -> "color theme"
+* Zen mode in VSCode (double esc to get out) -> Command palatte -> "zen mode"
 
 ## Tip 5: Use code snippets
 
