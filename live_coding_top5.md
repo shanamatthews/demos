@@ -23,7 +23,7 @@ How to look like a coding rockstar on stage with Azure and VSCode.
 
     [comment]: # (you have multiple subscriptions, don’t want everyone to see your personal resources. Those are the ones I’m making Satya pay for.)
 
-## Tip 2: Cloud shell is your friend.
+## Tip 2: Cloud shell is your friend
 
   [comment]: # (if you ever have to demo on a machine that isn't yours, or you can't install command line tools on cloud shell will save your butt.)
 
