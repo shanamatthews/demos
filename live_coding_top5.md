@@ -55,8 +55,13 @@ How to look like a coding rockstar on stage with Azure and VSCode.
 
 ## Tip 5: Use code snippets
 
-* [VSCode extension for this](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
-* Carefully choose your snippet size: large is fine for boilerplate, but use small, incremental snippets for anything your audience shoudl follow
+* [VSCode extensions](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+* File -> Preferences -> User Snippets
+* Carefully choose your snippet size: large is fine for boilerplate, but use small, incremental snippets for anything your audience should follow along with
+
+```python
+print("hello MSPs!")
+```
 
 ## Bonus tips
 
