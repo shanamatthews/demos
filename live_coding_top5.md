@@ -4,7 +4,7 @@ How to look like a coding rockstar on stage with Azure and VSCode.
 
 [comment]: # (Consider adding screenshots for each of these tips)
 
-## **Tip 1**: Customize your Azure Portal
+## Tip 1: Customize your Azure Portal
 
 - Disable your toasts
 - Change your theme
@@ -29,23 +29,23 @@ How to look like a coding rockstar on stage with Azure and VSCode.
   - Drag & drop files – easy to upload into your VM or other Azure resource
   - Check VM status – MOST foolproof way to do it
 
-## **Tip 2**: Show your users how to save $
+## Tip 2: Show your users how to save $
 
 - VM Autoshutdown feature
 - Delete resource groups
 
-## **Tip 3**: Make the code easy to read
+## Tip 3: Make the code easy to read
 
 - Zoom in properly! (ctrl + wheel or ctrl + =/-)
 - Zen mode in VSCode
 - Fonts and colors
 
-## **Tip4**: Use code snippets
+## Tip4: Use code snippets
 
 - VSCode extension for this
 - Carefully choose your snippet size: large is fine for boilerplate, but use small, incremental snippets for anything your audience shoudl follow
 
-## **Tip5**: Use keyboard shortcuts (appropriately)
+## Tip5: Use keyboard shortcuts (appropriately)
 
 - Tips & tricks section and keyboard shortcuts section within VSCode!
 Command palatte (ctrl + shift + p)
