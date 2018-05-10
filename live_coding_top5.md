@@ -1,6 +1,6 @@
-# Top tips & tricks for live demos
+# Top tips & tricks for demos
 
-How to look like a coding rockstar on stage with Azure and VSCode.
+How to look like a coding rockstar with Azure and VSCode.
 
 [comment]: # (Consider adding screenshots for each of these tips)
 
